@@ -2,7 +2,7 @@ let img1, img2, img3;
 let f1, f2, f3;
 let song;
 
-function preload() {
+function preLoad() {
   song = loadSound("assets/dance.mp3") ;
 }
 
